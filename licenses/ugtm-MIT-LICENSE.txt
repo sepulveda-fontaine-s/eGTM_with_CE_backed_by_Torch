@@ -1,0 +1,16 @@
+
+# Third-party licenses and attribution
+
+This repository contains modified files derived from the original `ugtm` Python package.
+
+## ugtm
+
+Original project: `ugtm: Generative Topographic Mapping with Python`  
+Original author: Héléna A. Gaspar  
+Original repository: https://github.com/hagax8/ugtm  
+Original software paper: Gaspar, H. A. (2018). *ugtm: A Python Package for Data Modeling and Visualization Using Generative Topographic Mapping*. Journal of Open Research Software, 6, Article 26. https://doi.org/10.5334/jors.235  
+Original license: MIT License
+
+The files adapted in this repository are derived from the `ugtm` package and have been modified to support the device-aware eGTM execution path and the cross-entropy-based regularization experiments described in this project.
+
+The full original MIT License text for `ugtm` is preserved in `licenses/ugtm-MIT-LICENSE.txt`.

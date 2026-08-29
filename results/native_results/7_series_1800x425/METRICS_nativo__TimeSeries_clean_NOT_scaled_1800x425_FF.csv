@@ -1,0 +1,4 @@
+Dataset,Data Size,Standardization,Best k,Best m,Best s,Best alpha_0,Best eta,Normalized MSE,Normalized NLL,CE Score,Best k_sil,Silhouette Score,Execution Time,Grid Search Time,GTM Time
+TimeSeries_clean_NOT_scaled,1800x425,False,34,15,0.5,0.25,not applicable,0.4508806383734063,-355.1178504783599,not applicable,2,0.4110100529868074,59825.36784243584,59620.53539919853,204.8324432373047
+TimeSeries_clean_NOT_scaled,1800x425,False,34,15,0.5,0.25,not applicable,0.4508806383734063,-355.1178504783599,not applicable,2,0.4110100529868074,59825.36784243584,59620.53539919853,204.8324432373047
+TimeSeries_clean_NOT_scaled,1800x425,False,30,9,1.0,0.1,not applicable,0.4922298408854707,-350.96438313291395,not applicable,2,0.4143391679824644,60038.58396553993,59620.53539919853,418.04856634140015

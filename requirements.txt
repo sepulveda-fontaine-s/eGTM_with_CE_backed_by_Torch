@@ -1,0 +1,14 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+PyYAML
+
+# Torch-backed eGTM execution
+# For CUDA-specific installs, see the official PyTorch selector:
+# https://pytorch.org/get-started/locally/
+torch
+
+# Used by plotting/experiment scripts if figures are generated
+matplotlib

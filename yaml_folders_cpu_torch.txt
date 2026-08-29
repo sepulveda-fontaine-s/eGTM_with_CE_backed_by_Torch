@@ -1,0 +1,2 @@
+/path_to_project/eGTM/code/yamls_CPU/4_gen_by_MAD_1230x15000
+/path_to_project/eGTM/code/yamls_CPU/5_gen_by_corr_1230x30000

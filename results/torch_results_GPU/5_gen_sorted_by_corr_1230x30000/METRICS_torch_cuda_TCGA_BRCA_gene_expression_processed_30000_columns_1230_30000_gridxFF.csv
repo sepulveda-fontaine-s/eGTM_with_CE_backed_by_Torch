@@ -1,0 +1,4 @@
+Dataset,Data Size,Standardization,Best k,Best m,Best s,Best regul,Best eta,Best sigma,Best k_sil,CE value,Normalized NLL,Normalized MSE,Silhouette Score,Execution Time,Grid Search Time,GTM Time,Num_param
+TCGA_BRCA_gene_expression_processed_30000_columns,1230,False,20,9,0.75,0.1,0.0,1.0,3,not applicable,89.57200101771231,0.09736910713391932,0.5130726998044063,18132.431663274765,18126.269632816315,6.162030458450317,grid
+TCGA_BRCA_gene_expression_processed_30000_columns,1230,False,20,9,0.75,0.1,0.0,1.0,3,not applicable,89.57200101771231,0.09736910713391932,0.5130726998044063,18132.431663274765,18126.269632816315,6.162030458450317,grid
+TCGA_BRCA_gene_expression_processed_30000_columns,1230,False,20,3,1.5,0.25,0.0,1.0,4,not applicable,95.42100564031185,0.10945465021568186,0.6371823686896122,18130.738217115402,18126.269632816315,4.468584299087524,grid

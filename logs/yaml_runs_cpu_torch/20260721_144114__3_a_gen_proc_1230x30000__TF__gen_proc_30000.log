@@ -1,0 +1,16 @@
+START YAML: TF__gen_proc_30000.yaml
+YAML PATH: /path_to_project/eGTM/code/yamls_CPU/3_a_gen_proc_1230x30000/TF__gen_proc_30000.yaml
+csv_path: /path_to_project/eGTM/datasets/TCGA_BRCA_gene_expression_processed_30000_columns.csv
+num_rows: 1230
+num_columns: 30000
+choose_standarization: False
+kl_regularization: True
+num_param: None
+  k: [8, 12, 16, 20]
+  m: [3, 5, 7, 9]
+  s: [0.75, 1, 1.25, 1.5]
+  regul: [0.1, 0.15, 0.2, 0.25]
+Using egtm from: /path_to_project/eGTM/code/egtm/__init__.py
+
+Using CPU
+Starting grid search...
